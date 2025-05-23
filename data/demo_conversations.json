@@ -1,0 +1,20 @@
+[
+  {
+    "role": "NHS_Receptionist",
+    "script": [
+      "Good morning! I need to take some details from you today.",
+      "Can you tell me what's brought you to A&E?",
+      "When did this injury happen?",
+      "On a scale of 1 to 10, how would you rate your pain?"
+    ]
+  },
+  {
+    "role": "Prepared_Patient", 
+    "script": [
+      "My mother fell and broke her arm about 2 hours ago.",
+      "She rates the pain as 7 out of 10.",
+      "She's allergic to penicillin and takes blood pressure medication.",
+      "Here are her GP details and emergency contact information."
+    ]
+  }
+]

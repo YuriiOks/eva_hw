@@ -1,0 +1,12 @@
+{
+  "english": {
+    "pain_question": "On a scale of 1-10, how bad is your pain?",
+    "allergy_question": "Do you have any allergies?",
+    "when_question": "When did this happen?"
+  },
+  "simplified": {
+    "pain_question": "How much does it hurt? 1 is no pain, 10 is very bad pain.",
+    "allergy_question": "Are there any medicines or foods that make you sick?",
+    "when_question": "What time did you get hurt?"
+  }
+}

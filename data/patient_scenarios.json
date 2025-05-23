@@ -1,0 +1,22 @@
+{
+  "scenarios": [
+    {
+      "name": "Elderly Broken Arm",
+      "age": 61,
+      "issue": "Broken arm from fall",
+      "language_barrier": true,
+      "expected_questions": [1, 2, 3, 4, 5, 6, 7],
+      "estimated_time": "4+ hours",
+      "departments": ["Reception", "Triage", "X-ray", "Doctor", "Discharge"]
+    },
+    {
+      "name": "Child Fever",
+      "age": 5,
+      "issue": "High fever and cough",
+      "language_barrier": false,
+      "expected_questions": [1, 2, 3, 4, 5, 6],
+      "estimated_time": "2-3 hours",
+      "departments": ["Reception", "Pediatric Triage", "Doctor"]
+    }
+  ]
+}

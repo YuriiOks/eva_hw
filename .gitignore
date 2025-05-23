@@ -1,0 +1,22 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Model files
+models/base/
+*.bin
+*.safetensors
+
+# Logs
+logs/
+wandb/
+
+# Audio files
+assets/audio/*.wav
+assets/audio/*.mp3
+
+# IDE
+.vscode/
+.idea/
